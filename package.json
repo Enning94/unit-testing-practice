@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch":" jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enning94/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enning94/test/issues"
+  },
+  "homepage": "https://github.com/Enning94/test#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
